@@ -109,6 +109,10 @@ header {
   position:fixed;
 }
 
+header a {
+  padding-left: 10px;
+}
+
 header ul {
   list-style:none;
   height:40px;
@@ -284,4 +288,10 @@ footer {
     font-size:12pt;
     color:#444;
   }
+}
+
+.screen-cap {
+  width: 280px;
+  margin: 0 auto;
+  display: inherit;
 }
