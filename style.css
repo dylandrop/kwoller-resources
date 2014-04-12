@@ -290,6 +290,10 @@ footer {
   }
 }
 
+.unpadded {
+  padding: 0;
+}
+
 .screen-cap {
   width: 280px;
   margin: 0 auto;
